@@ -1,2 +1,1 @@
-# Tactics
-Initial commit
+Репозиторий со всеми предложениями по тактике полка CODEX игры WarThunder
